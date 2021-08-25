@@ -85,6 +85,7 @@ class _HomePageState extends State<HomePage> {
       "Ice": 0xffFFD86F,
       "Dragon":0xffFB6C6C,
       "Psychic":0xffFFD86F,
+      "Fighting":0xff73BAFC,
     };
 
     return Card(
