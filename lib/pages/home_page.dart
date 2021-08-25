@@ -36,7 +36,7 @@ class _HomePageState extends State<HomePage> {
         backgroundColor: Colors.transparent,
         elevation: 0,
         title: Text(
-          "Pokedex",
+          "Pokedex More",
           style: TextStyle(
               color: Color(0xff4b4b4b),
               fontSize: 30,
