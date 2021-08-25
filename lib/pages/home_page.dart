@@ -79,6 +79,8 @@ class _HomePageState extends State<HomePage> {
       "Bug":0xff73BAFC,
       "Normal":0xffFFD86F,
       "Ground":0xff73BAFC,
+      "Electric":0xffFFD86F,
+      "0xffFFD86F":0xffFB6C6C
     };
 
     return Card(
